@@ -88,3 +88,6 @@ Also, there is an interesting article about this that links many shell script ex
 http://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
 
 ```
+
+shell-example 常用的 shell 用例: 
+[shell example](https://github.com/qjcg/shell-examples)
