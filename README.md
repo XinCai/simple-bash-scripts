@@ -3,7 +3,7 @@
 shell_collect : my collection
 
 simple-shell: ruan yi feng collection
-
+[ruan yi feng](https://github.com/ruanyf/simple-bash-scripts)
 ```
 A collection of simple Bash scripts.
 
@@ -70,7 +70,10 @@ Image manipulation
     thumbnail.sh: create 400px thumbnails from images in a folder
 ```
 
-100 shell example : 
+100 shell example :
+
+[shell example repo link](https://github.com/epety/100-shell-script-examples)
+ 
 ```
 100 shell script examples
 This is archive of shell scripts that i found on the interenet long time ago. I'm not the author. Original website is located here: http://intuitive.com/wicked/wicked-cool-shell-script-library.shtml (author wrote a book).
