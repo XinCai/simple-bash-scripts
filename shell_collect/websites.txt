@@ -1,0 +1,5 @@
+bamboo.icare.nsw.gov.au
+icare-confluence.icare.nsw.gov.au
+nexus.icare.nsw.gov.au
+sonar.icare.nsw.gov.au
+icare-jira.icare.nsw.gov.au
